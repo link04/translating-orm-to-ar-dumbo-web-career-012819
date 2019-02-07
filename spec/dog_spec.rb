@@ -1,6 +1,5 @@
 require "spec_helper"
 require "pry"
-require "sqlite"
 
 describe "Dog" do
 
