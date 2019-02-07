@@ -1,6 +1,6 @@
 require "spec_helper"
 require "pry"
-
+require "sqlire"
 
 describe "Dog" do
 
